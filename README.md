@@ -1,6 +1,6 @@
 <snippet>
   <content>
-# Responsiveness
+# Burrito
 A Web Browser named Burrito that was built for the Raspbian OS on the Raspberry Pi.
 
 ## Installation
