@@ -1,7 +1,7 @@
 <snippet>
   <content>
 # Burrito
-A Web Browser named Burrito that was built for the Raspbian OS on the Raspberry Pi.
+A very lightweight(4kb) Web Browser named Burrito that was built for the Raspbian OS on the Raspberry Pi.
 
 ## Installation
 The simplest way to install this browser is as follows  
