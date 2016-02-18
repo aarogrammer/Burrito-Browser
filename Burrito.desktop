@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Burrito Browser
+Comment=Lightweight browser for Raspbian
+Icon=/home/pi/Burrito/icons/burrito.png
+Exec=sudo python /home/pi/Burrito/burrito.py
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=None;
